@@ -1,7 +1,6 @@
 # Hi, I'm Minwoo Park 👋
 
 I focus on building **data analytics systems**, especially in **sustainability data pipelines, anomaly detection, forecasting, and process mining**.  
-This GitHub is currently being organized — selected projects will be uploaded soon.
 
 ---
 
@@ -14,7 +13,7 @@ This GitHub is currently being organized — selected projects will be uploaded 
 
 ---
 
-### 📌 Upcoming Repositories
+### 📌 Continuously Updated Repositories
 - **Walmart Sales Forecasting (MIST 4635 ML Final Project)**  
   Time-series forecasting & ML model comparison.
 
