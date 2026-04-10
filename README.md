@@ -1,33 +1,31 @@
 # Hi, I'm Minwoo Park 👋
 
-I focus on building **data analytics systems**, especially in **sustainability data pipelines, anomaly detection, forecasting, and process mining**.  
+Data Analytics Engineer building AI-powered automation systems and data pipelines.
 
----
+Currently working on **AI-driven process automation** — OCR, RAG pipelines, and LLM integrations that cut manual work by 90%+.
 
-### 🔧 Tech Interests
-- **Python:** Pandas, NumPy, Scikit-learn  
-- **Machine Learning:** Regression, Forecasting, Model Evaluation  
-- **Process Mining:** pm4py, Disco, Celonis, ProDiscovery
-- **Sustainability Data Systems:** Waste & energy audit automation, data validation pipelines  
-- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+## What I Work With
 
----
+- **Data & Engineering:** Python, SQL, R, Power BI, Process Mining
+- **AI / LLM:** RAG pipelines, LangChain, OpenAI/Claude APIs, ChromaDB
+- **Automation:** Power Automate, RPA, OCR, ETL pipelines
+- **Tools:** AWS, Git, Java, HTML
 
-### 📌 Continuously Updated Repositories
-- **Walmart Sales Forecasting (MIST 4635 ML Final Project)**  
-  Time-series forecasting & ML model comparison.
+## Recent Work
 
-- **Process Mining (Reconstructed using sample event logs)**  
-  Event log generation, process maps, bottleneck and conformance analysis.
+- **AI Expense Automation** — OCR + LLM system that reduced reconciliation time by 90%+ (Accuver America)
+- **RAG Competitor Intelligence** — Document analysis pipeline extracting insights from unstructured data
+- **Sustainability Data Audit** — Python + Power BI system that found $20K+ in cost discrepancies (Andersen Corp)
+- **Process Mining Analysis** — Analyzed 3M+ records to improve insurance conversion by 5% (PuzzleData)
 
-- **Regression & Optimization Models**  
-  Ridge/Lasso, logistic regression, OR/optimization models.
+## Featured Projects
 
-- **Sustainability Waste Audit (Reconstructed version)**  
-  Python-based validation & anomaly detection workflow using synthetic data.
+- **[Walmart Sales Forecasting](https://github.com/minwoo-data/walmart-sales-forecasting)** — Time-series forecasting & ML model comparison
+- **[Process Mining Portfolio](https://github.com/minwoo-data/process-mining-portfolio)** — Procurement workflow optimization (~80%+ conformance)
+- **[Expense Automation](https://github.com/minwoo-data/expense-automation)** — Receipt scanning to statement reconciliation
 
----
+## 📫 Contact
 
-### 📫 Contact
-- **Email:** minwoo.park219@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/mp74484/
+- Email: minwoo.park219@gmail.com
+- LinkedIn: [linkedin.com/in/mp74484](https://www.linkedin.com/in/mp74484/)
+- Portfolio: [minwoopark.dev](http://minwoopark.dev/)
