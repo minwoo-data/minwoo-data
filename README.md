@@ -25,7 +25,17 @@ Currently working on **AI-driven process automation** - OCR, RAG pipelines, and 
 
 - **[Walmart Sales Forecasting](https://github.com/minwoo-data/walmart-sales-forecasting)** — Time-series forecasting & ML model comparison
 - **[Process Mining Portfolio](https://github.com/minwoo-data/process-mining-portfolio)** — Procurement workflow optimization (~80%+ conformance)
-- **[Expense Automation](https://github.com/minwoo-data/expense-automation)** — Receipt scanning to statement reconciliation
+- **[보다 (Boda)](https://github.com/minwoo-data/boda)** — Vision OCR (Gemini to Claude) that turns receipt images into structured expense data + Excel
+
+  
+## Claude Code Tooling
+
+Open-source plugins & skills I build for [Claude Code](https://claude.com/claude-code):
+
+- **[ddaro](https://github.com/minwoo-data/ddaro)** — Worktree-based parallel workflow: isolated branches, CI-orchestrated merges, crash recovery.
+- **[prism](https://github.com/minwoo-data/prism)** — Multi-angle code review: 5 parallel agents + a singleton verifier pass.
+- **[triad](https://github.com/minwoo-data/triad)** — 3-perspective deliberation (clarity / longevity / comprehension) until consensus.
+- **[mangchi](https://github.com/minwoo-data/mangchi)** — Cross-model code hardening: Claude writes, Codex CLI critiques one axis at a time.
 
   
 ## 📫 Contact
