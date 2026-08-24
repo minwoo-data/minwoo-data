@@ -23,7 +23,7 @@ Currently working on **AI-driven process automation** - OCR, RAG pipelines, and 
   
 ## Featured Projects
 
-- **[Walmart Sales Forecasting](https://github.com/minwoo-data/walmart-sales-forecasting)** — Time-series forecasting & ML model comparison
+- **[Walmart Sales Forecasting](https://github.com/minwoo-data/walmart-sales-forecasting)** — Regression model comparison in R (linear/ridge/lasso/RF/GBM) on 550K+ transactions
 - **[Process Mining Portfolio](https://github.com/minwoo-data/process-mining-portfolio)** — Procurement workflow optimization (~80%+ conformance)
 - **[보다 (Boda)](https://github.com/minwoo-data/boda)** — Vision OCR (Gemini to Claude) that turns receipt images into structured expense data + Excel
 
