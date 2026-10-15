@@ -31,7 +31,7 @@ Most recently the sole engineer on a production AI expense platform at Accuver A
   
 ## Claude Code Tooling
 
-Seven open-source plugins for [Claude Code](https://claude.com/claude-code), used throughout the 729-PR Accuver codebase and adopted by the successor engineer:
+Six open-source plugins for [Claude Code](https://claude.com/claude-code), used throughout the 729-PR Accuver codebase and adopted by the successor engineer:
 
 **Parallel workflow**
 - **[ddaro](https://github.com/minwoo-data/ddaro)**: worktree-based parallel workflow with deletion-aware staging, crash-recoverable context, and CI-orchestrated merges
