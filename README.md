@@ -31,16 +31,15 @@ Most recently the sole engineer on a production AI expense platform at Accuver A
   
 ## Claude Code Tooling
 
-Seven open-source plugins for [Claude Code](https://claude.com/claude-code), used throughout the 729-PR Accuver codebase and adopted by the successor engineer:
+Six open-source plugins for [Claude Code](https://claude.com/claude-code), used throughout the 729-PR Accuver codebase and adopted by the successor engineer:
 
 **Parallel workflow**
 - **[ddaro](https://github.com/minwoo-data/ddaro)**: worktree-based parallel workflow with deletion-aware staging, crash-recoverable context, and CI-orchestrated merges
 
 **Multi-model review**
-- **[prism](https://github.com/minwoo-data/prism)**: multi-angle code review, 5 parallel agents plus a singleton verifier pass
+- **[prism](https://github.com/minwoo-data/prism)**: evidence-graded multi-angle review, defect lenses for code and design lenses for design docs, with every finding pinned to file and lines before it counts; `--redteam` adds an attacker-mindset lens
 - **[triad](https://github.com/minwoo-data/triad)**: 3-perspective deliberation (clarity, longevity, comprehension) until consensus
 - **[mangchi](https://github.com/minwoo-data/mangchi)**: cross-model code hardening, Claude writes while Codex CLI critiques one axis at a time
-- **[prism-devil](https://github.com/minwoo-data/prism-devil)**: single-agent attacker-mindset review with auto-loaded checklists
 
 **Deep research as verified RAG**
 - **[batchim (받침)](https://github.com/minwoo-data/batchim)**: verification-gated research with an isolated verifier, 3-panel entailment checks, code-enforced span/number anchors, and a sha256-signed run ledger
