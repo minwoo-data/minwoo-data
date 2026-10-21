@@ -37,7 +37,7 @@ Six open-source plugins for [Claude Code](https://claude.com/claude-code), used 
 - **[ddaro](https://github.com/minwoo-data/ddaro)**: worktree-based parallel workflow with deletion-aware staging, crash-recoverable context, and CI-orchestrated merges
 
 **Multi-model review**
-- **[prism](https://github.com/minwoo-data/prism)**: evidence-graded multi-angle review, defect lenses for code and design lenses for design docs, with every finding pinned to file and lines before it counts; `--redteam` adds an attacker-mindset lens
+- **[prism](https://github.com/minwoo-data/prism)**: evidence-graded multi-angle review, defect lenses for code and design lenses for design docs, with every finding pinned to file and lines before it counts; an idea pass proposes grounded alternatives (fix the class, a different route, remove or reuse) that a second model judges, kept apart from findings; `--redteam` adds an attacker-mindset lens
 - **[triad](https://github.com/minwoo-data/triad)**: 3-perspective deliberation (clarity, longevity, comprehension) until consensus
 - **[mangchi](https://github.com/minwoo-data/mangchi)**: cross-model code hardening, Claude writes while Codex CLI critiques one axis at a time
 
